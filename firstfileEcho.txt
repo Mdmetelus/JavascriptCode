@@ -1,0 +1,1 @@
+this is a try at making a git repo from command line scratch.
