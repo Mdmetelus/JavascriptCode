@@ -1,0 +1,63 @@
+/* DO NOT EDIT! */
+
+h1, h2, h3, h4, h5, div, span, p {
+  margin: 20px;
+  padding: 10px;
+}
+
+h1, h2, h3, h4, h5 {
+  border: 2px solid red;
+   background-color: Azure ;
+}
+
+div {
+  border: 4px solid green;
+}
+
+.gold {
+  border:6px solid gold;
+  background-color: LemonChiffon ;
+}
+
+.silver{
+  border:3px solid silver;
+  text-indent: 15em;
+  text-decoration: underline;
+  color: slategray;
+  letter-spacing: 1em;
+  text-transform: uppercase;
+  background-color: LightSalmon ;
+}
+
+.bronze{
+  border:3px dashed DarkGoldenRod ;
+  color: olive;
+  background-color: NavajoWhite ;
+
+}
+span {
+  border: 4px solid midnightblue;
+  color: black;
+  fontstyle: Bold;
+}
+
+p {
+  border: 2px solid purple;
+  font-size:16px;
+}
+
+p {
+    font-style: italic;
+}
+
+h4{
+  fontstyle: Bold;
+}
+.Last{
+  background-color: #a3d5d3;
+}
+
+footer {
+  border-radius: 2px solid #000
+  padding: 5px
+}

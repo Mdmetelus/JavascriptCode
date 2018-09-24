@@ -1,0 +1,102 @@
+/*CSS requirements:
+* a tag selector
+* a class selector
+* an id selector
+* use the following attributes: height, width, border, color, background-color, font-size
+* add margin and padding to two different elements
+*/
+
+
+
+
+
+
+
+
+/*
+Stretch Goal: Use online resources to learn a little about the CSS properties of 'display' and 'position'. Incorporate them into your page.
+*/
+h1, h2, h3, h4, h5, div, span, p {
+  margin: 20px;
+  padding: 10px;
+}
+
+h1, h2, h3, h4, h5 {
+  border: 2px solid red;
+  background-color: Azure ;
+
+}
+
+div {
+  border: 4px solid green;
+}
+
+#Tall{
+  text-decoration: underline;
+  text-indent: 18em;
+}
+
+#Small{
+  background-color: PaleGreen ;
+}
+
+#Other{
+  background-color: Thistle;
+}
+
+.gold {
+  border:6px solid gold;
+  background-color: LemonChiffon ;
+}
+
+.silver{
+  border:3px solid silver;
+  text-indent: 5em;
+  text-decoration: underline;
+  color: midnightblue;
+  letter-spacing: 1em;
+  text-transform: uppercase;
+  background-color: LightSalmon ;
+}
+
+.bronze{
+  border:3px dashed DarkGoldenRod ;
+  color: olive;
+  background-color: NavajoWhite ;
+
+}
+span {
+  border: 4px solid midnightblue;
+  color: black;
+  fontstyle: Bold;
+  text-indent: 13em;
+}
+
+p {
+  border: 2px solid purple;
+  font-size:16px;
+}
+
+p {
+    font-style: italic;
+}
+
+
+.Last{
+  background-color: #a3d5d3;
+}
+
+h1{
+text-indent: 14em;
+}
+.span1 {
+  border: 1px dashed slategray;
+  color: black;
+  fontstyle: Bold;
+  text-indent: 5em;
+  font-size: 12px;
+}
+
+  #White{
+    background-color: White;
+  }
